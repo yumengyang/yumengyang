@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Yumeng(Summer) Yang 🌞
 
-Hi there, I am Summer, currently a second year PhD student at the University of Texas Health Science Center at Houston. I am proundly been supervised by Dr. Robert Kirk who is an NLP expert from UTHealth, and Dr. Ludmir Ethan who is an oncologist from MD Anderson. My research interest including Natural Language Processing(information extraction, text mining in particular) and clinical trial(prediction on survivial outcome by using Bayesian network).
+Hi there, I am Summer, currently a second year PhD student at the University of Texas Health Science Center at Houston. I am proundly been supervised by Dr. Robert Kirk who is an NLP expert at UTHealth, and Dr. Ludmir Ethan who is an oncologist at MD Anderson. My research interests including Natural Language Processing(information extraction, text mining in particular) and clinical trial(prediction on survivial outcome by using Bayesian network).
 
 
 Facts about me 🌝
