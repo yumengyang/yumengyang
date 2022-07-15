@@ -25,6 +25,7 @@ Facts about me 🌝
   - 🙂 Biggest hope at this point: Travel with parents
   - 💡 Potential thinking: combing NLP and clinical trial in some way🤨
   - 👏 Feel free to discuss anything with me at yyang34@mdanderson.org
+  - 🍔 Favorite Chinese proverbs：百工居肆以成其事，君子学以致其道
   
   
 Have a great day and good luck on your research! 👊
