@@ -23,7 +23,7 @@ Facts about me 🌝
   - 🥳 Currently working on phase III and phase II clinical trial data
   - 🤨 Currently learning sql and REDCap
   - 🙂 Biggest hope at this point: Travel with parents
-  - 💡 Potential thinking: combing NLP and clinical trial in some way🤨
+  - 💡 Potential thinking: combining NLP and clinical trial in some way🤨
   - 👏 Feel free to discuss anything with me at yyang34@mdanderson.org
   - 🍔 Favorite Chinese proverbs：百工居肆以成其事，君子学以致其道
   
